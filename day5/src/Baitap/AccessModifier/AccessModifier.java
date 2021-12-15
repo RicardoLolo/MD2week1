@@ -1,2 +1,4 @@
-package Baitap.AccessModifier;public class AccessModifier {
+package Baitap.AccessModifier;
+
+public class AccessModifier {
 }
